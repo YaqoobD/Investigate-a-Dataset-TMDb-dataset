@@ -1,6 +1,12 @@
 ## Investigate a Dataset (TMDb)
 This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue
 
+## Objectives:
+Know all the steps involved in a typical data analysis process
+Be comfortable posing questions that can be answered with a given dataset and then answering those questions
+Investigate problems in a dataset and wrangle the data into a format that can be used
+Communicating the results of your analysis
+
 ### Questions to answer from the Dataset.
 
 #### What rate of movie production over years(Drama)?
