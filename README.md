@@ -1,7 +1,7 @@
-## Investigate a Dataset (TMDb)
+## Investigate a Dataset (TMDb): 🔍📊
 This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue
 
-## Objectives:
+## Objectives: 🎯
 Know all the steps involved in a typical data analysis process
 Be comfortable posing questions that can be answered with a given dataset and then answering those questions
 Investigate problems in a dataset and wrangle the data into a format that can be used
@@ -24,13 +24,13 @@ Below code is used to get the top 10 highest rated movies and their properties t
 ![Screenshot 2022-04-30 at 17 48 05](https://user-images.githubusercontent.com/52135942/166112611-5550e26d-91d4-4197-a22f-4176c5b0b475.png)
 
 
-## Conclusions
+## Conclusions: 📝✅
 What rate of movie production over years for(Drama)? Drama Movies: The highest year of Drama is 2014
 
 Which genres are most popular from year to year? The most Popular movie genres are: Action, Adventure, Animation, Family, Fantasy
 
 Get the Rate of Western Movies. The highest year of Western is 1966-1977, the rate is descending.
 
-## Limitations:
+## Limitations: ⚠️
 We have used TMBD Movies dataset for our analysis and worked with popularity, revenue and runtime. Our analysis is limited to only the provided dataset. For example, the dataset does not confirm that every release of every director is listed. There is no normalization or exchange rate or currency conversion is considered during this analysis and our analysis is limited to the numerical values of revenue. Dropping missing or Null values from variables of our interest might skew our analysis and could show unintentional bias towards the relationship being analyzed. etc
 
